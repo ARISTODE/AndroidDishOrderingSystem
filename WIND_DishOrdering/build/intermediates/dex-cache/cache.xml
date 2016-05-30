@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Projects\Android_Project\WIII-2016-Wind\WIND_DishOrdering\app\build\intermediates\exploded-aar\com.android.support\percent\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f11c0ed172c2ea17ad5e999df892d363ffa6c35b">
+        <dex dex="E:\Projects\Android_Project\WIII-2016-Wind\WIND_DishOrdering\app\build\intermediates\pre-dexed\debug\com.android.support-percent-23.2.0_9b67e73e4d253ab25649cc3cc354f66649aef045.jar" />
+    </item>
+    <item
+        jar="E:\Projects\Android_Project\WIII-2016-Wind\WIND_DishOrdering\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="E:\Projects\Android_Project\WIII-2016-Wind\WIND_DishOrdering\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_c250294e26c74c47190b5765f14b7d7be7cd736f.jar" />
+    </item>
+    <item
+        jar="E:\Projects\Android_Project\WIII-2016-Wind\WIND_DishOrdering\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="E:\Projects\Android_Project\WIII-2016-Wind\WIND_DishOrdering\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_48f485f8847ce92b92a33fa19f8583f108388aeb.jar" />
+    </item>
+    <item
+        jar="E:\Projects\Android_Project\WIII-2016-Wind\WIND_DishOrdering\app\build\intermediates\exploded-aar\com.astuetz\pagerslidingtabstrip\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="E:\Projects\Android_Project\WIII-2016-Wind\WIND_DishOrdering\app\build\intermediates\pre-dexed\debug\com.astuetz-pagerslidingtabstrip-1.0.1_9fc54bec51f55eaa8321742a894a8980ba482515.jar" />
+    </item>
+    <item
+        jar="C:\Users\UncleYi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="E:\Projects\Android_Project\WIII-2016-Wind\WIND_DishOrdering\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_1ba989bdda7338881fae83e791b1d0bd2b4e2dbc.jar" />
+    </item>
+    <item
+        jar="E:\Projects\Android_Project\WIII-2016-Wind\WIND_DishOrdering\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="E:\Projects\Android_Project\WIII-2016-Wind\WIND_DishOrdering\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_2c5d2b753d42f5d564696b1a3aa9f999d84f49f1.jar" />
+    </item>
+    <item
+        jar="E:\Projects\Android_Project\WIII-2016-Wind\WIND_DishOrdering\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="E:\Projects\Android_Project\WIII-2016-Wind\WIND_DishOrdering\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_df359d8542bca8151618aa03046c01bc61ed12ee.jar" />
+    </item>
+    <item
+        jar="E:\Projects\Android_Project\WIII-2016-Wind\WIND_DishOrdering\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="E:\Projects\Android_Project\WIII-2016-Wind\WIND_DishOrdering\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.0_a2ea883bad8c514dc0f4664d077a0ce492ee9c20.jar" />
+    </item>
+    <item
+        jar="E:\Projects\Android_Project\WIII-2016-Wind\WIND_DishOrdering\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="E:\Projects\Android_Project\WIII-2016-Wind\WIND_DishOrdering\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_fa46e9a374d10b8d5a7efd6a431ad7829ba65366.jar" />
+    </item>
+    <item
+        jar="E:\Projects\Android_Project\WIII-2016-Wind\WIND_DishOrdering\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="E:\Projects\Android_Project\WIII-2016-Wind\WIND_DishOrdering\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.0_a119610475b407bfdb78a5067dc5f8d6990d7509.jar" />
+    </item>
+
+</items>

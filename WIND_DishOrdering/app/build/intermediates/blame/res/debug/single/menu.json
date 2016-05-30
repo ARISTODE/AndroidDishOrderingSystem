@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Projects\\Android_Project\\WIII-2016-Wind\\WIND_DishOrdering\\app\\build\\intermediates\\res\\merged\\debug\\menu\\normal.xml",
+        "source": "E:\\Projects\\Android_Project\\WIII-2016-Wind\\WIND_DishOrdering\\app\\src\\main\\res\\menu\\normal.xml"
+    },
+    {
+        "merged": "E:\\Projects\\Android_Project\\WIII-2016-Wind\\WIND_DishOrdering\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Projects\\Android_Project\\WIII-2016-Wind\\WIND_DishOrdering\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Projects\\Android_Project\\WIII-2016-Wind\\WIND_DishOrdering\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "E:\\Projects\\Android_Project\\WIII-2016-Wind\\WIND_DishOrdering\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    }
+]
